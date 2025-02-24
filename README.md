@@ -1,7 +1,7 @@
 ### Мой стек технологий
 
 <img src="https://img.shields.io/badge/SQL-008080?style=for-the-badge"> <img src="https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=MySQL&logoColor=white"> 
-<img src="https://img.shields.io/badge/PostgreSQL-00BFFF?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-6495ED?style=for-the-badge&logo=SQLite&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-00BFFF?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/Microsoft SQL Server-D2691E?style=for-the-badge">
 <img src="https://img.shields.io/badge/Python-20B2AA?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-FFA500?style=for-the-badge&logo=NumPy&logoColor=white"> 
 <img src="https://img.shields.io/badge/Pandas-000080?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-556B2F?style=for-the-badge">
